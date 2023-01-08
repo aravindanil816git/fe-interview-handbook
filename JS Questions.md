@@ -23,6 +23,7 @@
 - [ ] `this` keyword
 - [ ] Compare `Object.create()` and `Object.assign()`
       🏷️ _prototypal inheritance, object referencing_
+- [ ] Compare `Object.__proto__` and `Object.prototype`
 
 #### Output based
 
